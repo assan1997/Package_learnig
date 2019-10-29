@@ -29,7 +29,7 @@ Exemple :
            affiche un nombre aleatoire dans le tableau
 
 
-#bower 
+#BOWER 
   bower un gestionnaire de paquet coté client 
   #*installtion
   
@@ -50,7 +50,7 @@ Exemple :
          <script src="bower_components/jquery/dist/jquery.min.js"></script>
   
   
-  #multer 
+  #MULTER
     multer est un module nodejs qui permet de traiter les formulaires contenant les fichiers
     
    #*installation 
@@ -71,7 +71,7 @@ Exemple :
       req.body stock les champs du formulaire
       })
 
-   #axios 
+   #AXIOS
    axios une librarie javascript qui permet de faire des requetes http asyncchrone elle dispose ddes methodes tel que get ou post
    
    
@@ -107,6 +107,6 @@ Exemple :
       }
 
     
- #vanillaJS
+ #VANILLAJS 
    
 `/// bash`
